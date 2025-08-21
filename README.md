@@ -70,5 +70,5 @@ This project is a **Global Capability Centre (GCC) Analytics Dashboard** built i
 
 ## License
 
-This repository is for **educational/demo purposes**. Do not use sensitive data when publishing publicly.
+This repository is for **educational**. Do not use sensitive data when publishing publicly.
 
